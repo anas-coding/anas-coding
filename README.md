@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science, its application in mechanical engineering problems.
 - 🌱 I’m currently learning numpy and c++ .
 - 💞️ I’m looking to collaborate on numpy and c++.
-- 📫 How to reach me - @ anaspalghat@gmail.com
+- 📫 How to reach me - @ anas.palghat@gmail.com
 
 <!---
 anas-coding/anas-coding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
